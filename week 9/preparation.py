@@ -1,0 +1,1 @@
+Favorite_colors=[blue, light blue, baby blue, Navy blue, cyan]
