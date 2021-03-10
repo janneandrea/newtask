@@ -1,11 +1,11 @@
-my_list =(1,-2,2,3,4,5,8,1000)
+my_list =(1,-2,2,3,-1000,4,5,8,100000)
 
-smallest = 0
+largest = 0
 
 for value in my_list:
 
-    if value <= smallest:
+    if value > largest:
 
-        smallest = value
+        largest = value
 
-print(f"The smallest is {smallest}")
+print(f"The largest is {largest}")
