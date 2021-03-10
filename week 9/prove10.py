@@ -4,6 +4,7 @@ print("Welcome to the Shopping cart Program!")
 #Set lists
 cart =[]
 prices = []
+i+=1
 
 #Menu
 while action is !=  :
@@ -20,19 +21,22 @@ action =("Please enter an action: ")
     if action =="1"
        add_items = input("What item would you like to add? ")
        items.append(add_items)
-       print(f"{add_items}has been added to the cart.)
+       print(f"{add_items}has been added to the cart.")
 
 # Display items
     if action =="2"
+       print(f"{display_items}The contents of the shopping cart are: ")
        display_items = input("The contents of the shopping cart are: ")
-
+       cart =[]
+       prices = []
+       i+=1
 
 
 #Remove items
     if action =="3"
-       display_items = input("What item would you like to remove? ")
-       items.pop(display_items)
-       print(display_items)
+       remove_items = input("What item would you like to remove? ")
+       items.pop(remove_items)
+       print(f"{remove_items} has been removed. ")
 
 # Show total
     if action =="4"
