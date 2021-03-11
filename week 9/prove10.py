@@ -16,7 +16,7 @@ while action !="5":
     print("4.Compute the total")
     print("5.Quit")
     
-    action = int(input("Please enter an action: "))
+    action = input("Please enter an action: ")
 
 # Add several items
     if action =="1":
