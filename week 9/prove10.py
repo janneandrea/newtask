@@ -29,7 +29,7 @@ action = input("Please enter an action: 1,2,3,4,5 "/n)
        for i in range (len(cart)):
        cart =[]
        prices = []
-       print(f"{i+1},{item}, {price}.2f") #Python starts counting at zero. Number of item, item, price.
+       print(f"-{i+1},{item}, ${price}.2f") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
     elif action =="3"
@@ -39,9 +39,9 @@ action = input("Please enter an action: 1,2,3,4,5 "/n)
 
 # Show total
     elif action =="4"
-    final_amount = sum(prices)
-    print(f"The total price of the items in the shopping cart is: ${ final_amount}")
+       final_amount = sum(prices)
+       print(f"The total price of the items in the shopping cart is: ${ final_amount}")
 
 #quit
      elif action =="5"
-    print("Thank you. Goodbye.")
+        print("Thank you. Goodbye.")
