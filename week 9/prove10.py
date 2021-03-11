@@ -13,9 +13,8 @@ while action !="5":
     print("2.Display the contents of the shopping cart")
     print("3.Remove an item")
     print("4.Compute the total")
-    print("5.Quit")
-
-action = input("Please enter an action: 1,2,3,4,5 "/n)
+    print("5.Quit"/n)
+    action = input("Please enter an action: 1,2,3,4,5 "/n)
 
 # Add several items
     if action =="1":
@@ -40,7 +39,7 @@ action = input("Please enter an action: 1,2,3,4,5 "/n)
 # Show total
     elif action =="4":
        for item in price:
-       total = total + item  
+       total += item  
        print(total)
 
 #quit
