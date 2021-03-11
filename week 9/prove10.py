@@ -39,7 +39,8 @@ action = input("Please enter an action: 1,2,3,4,5 "/n)
 
 # Show total
     elif action =="4"
-       final_amount = sum(prices)
+       for item in price:
+       total = total + price  
        print(f"The total price of the items in the shopping cart is: ${ final_amount}")
 
 #quit
