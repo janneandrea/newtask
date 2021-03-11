@@ -4,6 +4,7 @@ print("Welcome to the Shopping cart Program!")
 #Set lists
 cart =[]
 prices = []
+total =(item*price)
 i=0
 
 #Menu
@@ -39,7 +40,7 @@ action =("Please enter an action: "/n)
 
 # Show total
     elif action =="4"
-    total = sum(price * item )
+    final_amount = sum(total)
     print(f"The total price of the items in the shopping cart is: ${total}")
 
 #quit
