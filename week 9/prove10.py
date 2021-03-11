@@ -40,7 +40,7 @@ action =("Please enter an action: ")
 # Show total
     elsif action =="4"
     total = sum(price * item )
-    print(f"The total price of the items in the shopping cart is: {total}")
+    print(f"The total price of the items in the shopping cart is: ${total}")
 
 #quit
     else:
