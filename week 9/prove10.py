@@ -20,27 +20,29 @@ while action !="5":
     if action =="1":
        add_items = input("What item would you like to add? ")
        items.append(add_items)
-       print(f"{add_items}has been added to the cart."/n)
+        print(f"{add_items}has been added to the cart."/n)
 
 # Display items
     elif action =="2":
-       print(f"{display_items}The contents of the shopping cart are: ")
-       cart =[]
-       prices = []
-       for i in range (len(cart)):
-       print(f"-{i+1},{item}, ${price}.2f") #Python starts counting at zero. Number of item, item, price.
+        print(f"{display_items}The contents of the shopping cart are: ")
+        cart =[]
+        prices = []
+        for i in range (len(cart)):
+            print(f"{i+1},{item}, ${price}.2f")
+
+#Python starts counting at zero. Number of item, item, price.
 
 #Remove items
     elif action =="3":
        remove_items = input("What item would you like to remove? ")
        items.pop(remove_items)
-       print(f"{remove_items} has been removed.")
+            print(f"{remove_items} has been removed.")
 
 # Show total
     elif action =="4":
-       for item in price:
-       total += item  
-       print(total)
+        for item in price:
+        total += item  
+            print(total)
 
 #quit
      elif action =="5":
