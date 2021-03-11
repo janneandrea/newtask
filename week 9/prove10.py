@@ -7,7 +7,7 @@ prices = []
 i=0
 
 #Menu
-while action is !="5":
+while action !="5":
     print("Please choose one of the following options:"/n)
     print("1.Add a new item")
     print("2.Display the contents of the shopping cart")
@@ -40,7 +40,7 @@ action = input("Please enter an action: 1,2,3,4,5 "/n)
 # Show total
     elif action =="4"
        for item in price:
-       total = total + price  
+       total = total + item  
        print(total)
 
 #quit
