@@ -6,7 +6,7 @@ cart =[]
 prices = []
 
 #Menu
-while action is != "5":
+while action is <> "5":
 Print("Please choose one of the following options:"/n)
 print("1.Add a new item")
 print("2.Display the contents of the shopping cart")
