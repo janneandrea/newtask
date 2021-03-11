@@ -25,11 +25,10 @@ action =("Please enter an action: ")
 # Display items
     if action =="2"
        print(f"{display_items}The contents of the shopping cart are: ")
-       display_items = input("The contents of the shopping cart are: ")
        for i in range (len(cart)):
        cart =[]
        prices = []
-       print("f{i+1} ") #Python starts counting at zero
+       print(f"{i+1},{item}, {price}") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
     if action =="3"
