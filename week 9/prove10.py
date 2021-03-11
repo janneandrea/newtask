@@ -18,13 +18,13 @@ print("5.Quit")
 action =("Please enter an action: ")
 
 # Add several items
-    if action =="1"
+    elif action =="1"
        add_items = input("What item would you like to add? ")
        items.append(add_items)
        print(f"{add_items}has been added to the cart.")
 
 # Display items
-    if action =="2"
+    elif action =="2"
        print(f"{display_items}The contents of the shopping cart are: ")
        for i in range (len(cart)):
        cart =[]
@@ -32,16 +32,16 @@ action =("Please enter an action: ")
        print(f"{i+1},{item}, {price}") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
-    if action =="3"
+    elif action =="3"
        remove_items = input("What item would you like to remove? ")
        items.pop(remove_items)
        print(f"{remove_items} has been removed.")
 
 # Show total
-    if action =="4"
-    
-    print("The total price of the items in the shopping cart is: ")
+    elsif action =="4"
+    total = sum(price * item )
+    print(f"The total price of the items in the shopping cart is: {total}")
 
 #quit
-    if action =="5"
+    else:
     print("Thank you. Goodbye.")
