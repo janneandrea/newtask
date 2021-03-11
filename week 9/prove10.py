@@ -4,7 +4,7 @@ print("Welcome to the Shopping cart Program!")
 #Set lists
 cart =[]
 prices = []
-total =(item*price)
+total =[]
 i=0
 
 #Menu
