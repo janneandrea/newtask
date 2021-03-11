@@ -25,9 +25,9 @@ while action !="5":
 # Display items
     elif action =="2":
        print(f"{display_items}The contents of the shopping cart are: ")
-       for i in range (len(cart)):
        cart =[]
        prices = []
+       for i in range (len(cart)):
        print(f"-{i+1},{item}, ${price}.2f") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
