@@ -2,7 +2,6 @@
 print("Welcome to the Shopping cart Program!")
 
 #Set lists
-action =""
 cart =[]
 prices = []
 
