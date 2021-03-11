@@ -2,12 +2,12 @@
 print("Welcome to the Shopping cart Program!")
 
 #Set lists
+action =""
 cart =[]
 prices = []
-i+=1
 
 #Menu
-while action is !=  :
+while action is != "5":
 Print("Please choose one of the following options:"/n)
 print("1.Add a new item")
 print("2.Display the contents of the shopping cart")
@@ -27,16 +27,16 @@ action =("Please enter an action: ")
     if action =="2"
        print(f"{display_items}The contents of the shopping cart are: ")
        display_items = input("The contents of the shopping cart are: ")
+       for i in range (len(cart)):
        cart =[]
        prices = []
-       i+=1
-
+       print("f{i+1} ") #Python starts counting at zero
 
 #Remove items
     if action =="3"
        remove_items = input("What item would you like to remove? ")
        items.pop(remove_items)
-       print(f"{remove_items} has been removed. ")
+       print(f"{remove_items} has been removed.")
 
 # Show total
     if action =="4"
@@ -44,5 +44,5 @@ action =("Please enter an action: ")
 
 
 #quit
-if action =="5"
-print("Thank you. Goodbye.")
+    if action =="5"
+    print("Thank you. Goodbye.")
