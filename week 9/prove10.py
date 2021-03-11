@@ -38,10 +38,10 @@ action =("Please enter an action: "/n)
        print(f"{remove_items} has been removed.")
 
 # Show total
-    elsif action =="4"
+    elif action =="4"
     total = sum(price * item )
     print(f"The total price of the items in the shopping cart is: ${total}")
 
 #quit
-    else:
+     elif action =="5"
     print("Thank you. Goodbye.")
