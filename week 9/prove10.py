@@ -29,7 +29,7 @@ action =("Please enter an action: "/n)
        for i in range (len(cart)):
        cart =[]
        prices = []
-       print(f"{i+1},{item}, {price}") #Python starts counting at zero. Number of item, item, price.
+       print(f"{i+1},{item}, {price}.2f") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
     elif action =="3"
