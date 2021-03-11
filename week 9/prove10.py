@@ -7,18 +7,18 @@ prices = []
 i=0
 
 #Menu
-while action is != "not shop":
-Print("Please choose one of the following options:"/n)
-print("1.Add a new item")
-print("2.Display the contents of the shopping cart")
-print("3.Remove an item")
-print("4.Compute the total")
-print("5.Quit")
+while action is != "5":
+    print("Please choose one of the following options:"/n)
+    print("1.Add a new item")
+    print("2.Display the contents of the shopping cart")
+    print("3.Remove an item")
+    print("4.Compute the total")
+    print("5.Quit")
 
-action =("Please enter an action: "/n)
+action = input("Please enter an action: 1,2,3,4,5 "/n)
 
 # Add several items
-    elif action =="1"
+    if action =="1"
        add_items = input("What item would you like to add? ")
        items.append(add_items)
        print(f"{add_items}has been added to the cart."/n)
