@@ -4,6 +4,7 @@ print("Welcome to the Shopping cart Program!")
 #Set lists
 cart =[]
 prices = []
+i=0
 
 #Menu
 while action is != "5":
