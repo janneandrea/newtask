@@ -4,11 +4,10 @@ print("Welcome to the Shopping cart Program!")
 #Set lists
 cart =[]
 prices = []
-total =[]
 i=0
 
 #Menu
-while action is != "none":
+while action is != "not shop":
 Print("Please choose one of the following options:"/n)
 print("1.Add a new item")
 print("2.Display the contents of the shopping cart")
@@ -40,8 +39,8 @@ action =("Please enter an action: "/n)
 
 # Show total
     elif action =="4"
-    final_amount = sum(total)
-    print(f"The total price of the items in the shopping cart is: ${total}")
+    final_amount = sum(prices)
+    print(f"The total price of the items in the shopping cart is: ${ final_amount}")
 
 #quit
      elif action =="5"
