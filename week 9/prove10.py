@@ -39,8 +39,8 @@ action =("Please enter an action: ")
 
 # Show total
     if action =="4"
-
-
+    
+    print("The total price of the items in the shopping cart is: ")
 
 #quit
     if action =="5"
