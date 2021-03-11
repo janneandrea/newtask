@@ -15,13 +15,13 @@ print("3.Remove an item")
 print("4.Compute the total")
 print("5.Quit")
 
-action =("Please enter an action: ")
+action =("Please enter an action: "/n)
 
 # Add several items
     elif action =="1"
        add_items = input("What item would you like to add? ")
        items.append(add_items)
-       print(f"{add_items}has been added to the cart.")
+       print(f"{add_items}has been added to the cart."/n)
 
 # Display items
     elif action =="2"
