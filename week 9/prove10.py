@@ -22,13 +22,13 @@ while action !="5":
     if action =="1":
        add_items = input("What item would you like to add?")
        cart.append(add_items)
-       print(f"{add_items}\n has been added to the cart.")
+       print(f"{add_items} has been added to the cart.")
 
 # Display items
     elif action =="2":
         cart =[]
         prices = []
-        for i in range (len(cart)):
+        for i in range (len(sadd_items)):
             print(f"{i+1},{item}, ${price}.2f") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
