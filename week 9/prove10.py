@@ -30,7 +30,7 @@ while action !="5":
         cart =[]
         prices = []
         for i in range (len(add_items)):
-            print(f"{i+1},{add_items}, ${price_items.2f}") #Python starts counting at zero. Number of item, item, price.
+            print(f"{i+1},{add_items}, ${price_items}") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
     elif action =="3":
