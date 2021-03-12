@@ -5,13 +5,13 @@ print("\nWelcome to the Shopping cart Program!")
 cart =[]
 prices = []
 action= ""
-price=""
+price= ""
 i=0
 
 #Menu
 while action !="5":
     print("\nPlease choose one of the following options:")
-    print("1.Add a new item")
+    print("\n1.Add a new item")
     print("2.Display the contents of the shopping cart")
     print("3.Remove an item")
     print("4.Compute the total")
