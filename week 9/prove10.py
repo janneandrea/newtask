@@ -28,13 +28,13 @@ while action !="5":
     elif action =="2":
         cart =[]
         prices = []
-        for i in range (len(sadd_items)):
+        for i in range (len(add_items)):
             print(f"{i+1},{item}, ${price}.2f") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
     elif action =="3":
-       remove_items = input("What item would you like to remove? ")
-       items.pop(remove_items)
+       remove_items=input("What item would you like to remove? ")
+       cart.pop(remove_items)
        print(f"{remove_items} has been removed.")
 
 # Show total
