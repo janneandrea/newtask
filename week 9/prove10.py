@@ -16,13 +16,12 @@ while action !="5":
     print("3.Remove an item")
     print("4.Compute the total")
     print("5.Quit")
-    
     action = int(input("Please enter an action: "))
 
 # Add several items
     if action =="1":
        add_items = input("What item would you like to add?")
-       price_items=float(input(f"What is the price of {add_items}?"))
+       price_items=input(f"What is the price of {add_items}?")
        cart.append(add_items)
        print(f"{add_items} has been added to the cart.")
 
@@ -35,8 +34,8 @@ while action !="5":
 
 #Remove items
     elif action =="3":
-       remove_items=input("What item would you like to remove? ")
-       cart.remove(remove_items)
+       remove_items=int(input("What item would you like to remove?"))
+       cart.pop(remove_items)
        print(f"{remove_items} has been removed.")
 
 # Show total
