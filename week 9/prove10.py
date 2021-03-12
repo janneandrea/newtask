@@ -16,7 +16,7 @@ while action !="5":
     print("3.Remove an item")
     print("4.Compute the total")
     print("5.Quit")
-    action = int(input("Please enter an action: "))
+    action = input("Please enter an action: ")
 
 # Add several items
     if action =="1":
@@ -34,7 +34,7 @@ while action !="5":
 
 #Remove items
     elif action =="3":
-       remove_items=int(input("What item would you like to remove?"))
+       remove_items=input("What item would you like to remove?")
        cart.pop(remove_items)
        print(f"{remove_items} has been removed.")
 
