@@ -1,15 +1,16 @@
  #welcome to the user
-print("Welcome to the Shopping cart Program!")
+print("\nWelcome to the Shopping cart Program!")
 
 #Set lists
 cart =[]
 prices = []
 action= ""
+price=""
 i=0
 
 #Menu
 while action !="5":
-    print("Please choose one of the following options:")
+    print("\nPlease choose one of the following options:")
     print("1.Add a new item")
     print("2.Display the contents of the shopping cart")
     print("3.Remove an item")
@@ -40,7 +41,7 @@ while action !="5":
 
 # Show total
     elif action =="4":
-        for item in price:
+        for item in prices:
             total += item  
             print(total)
 
