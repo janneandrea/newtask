@@ -20,8 +20,8 @@ while action !="5":
 
 # Add several items
     if action =="1":
-       add_items = input("What item would you like to add? ")
-       items.append(add_items)
+       add_items = input("What item would you like to add?")
+       cart.append(add_items)
        print(f"{add_items}has been added to the cart.")
 
 # Display items
