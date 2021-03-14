@@ -6,6 +6,7 @@ cart =[]
 prices = []
 action= ""
 price= ""
+item=""
 i=0
 
 #Menu
@@ -28,9 +29,7 @@ while action !="5":
 
 # Display items
     elif action =="2":
-        cart =[]
-        prices = []
-        for item in cart (len(add_items)):
+        for item in cart (len(item)):
             print(f"{i+1},{add_items}, ${price_items}") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
