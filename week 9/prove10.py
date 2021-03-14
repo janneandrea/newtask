@@ -16,6 +16,7 @@ while action !="5":
     print("3.Remove an item")
     print("4.Compute the total")
     print("5.Quit")
+    print("6.Clear cart")
     action = input("Please enter an action: ")
 
 # Add several items
@@ -29,7 +30,7 @@ while action !="5":
     elif action =="2":
         cart =[]
         prices = []
-        for cart in range (len(add_items)):
+        for item in cart (len(add_items)):
             print(f"{i+1},{add_items}, ${price_items}") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
@@ -47,3 +48,8 @@ while action !="5":
 #quit
     elif action =="5":
         print("Thank you. Goodbye.")
+
+#clear entire cart
+    elif action =="6":
+	    cart.clear( add_items,price_items)
+	    print("Your cart has been emptied")
