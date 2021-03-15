@@ -5,8 +5,8 @@ print("\nWelcome to the Shopping cart Program!")
 cart =[]
 prices = []
 action= "" 
-item=""
 i=0
+
 
 #Menu
 while action !="5":
@@ -30,7 +30,7 @@ while action !="5":
     elif action =="2":
         for add_items in cart:
             print(f"{i+1},{add_items}, ${price_items}") #Python starts counting at zero. Number of item, item, price.
-
+              
 #Remove items
     elif action =="3":
        remove_items=input("What item would you like to remove?")
