@@ -19,6 +19,8 @@ while action !="5":
     print("6.Clear cart")
     action = input("Please enter an action: ")
 
+    print()
+
 # Add several items
     if action =="1":
        add_items = input("\nWhat item would you like to add?")
@@ -29,7 +31,7 @@ while action !="5":
 # Display items
     elif action =="2":
         for add_items in cart:
-            print(f"{i+1},{add_items}, ${price_items}") #Python starts counting at zero. Number of item, item, price.
+            print(f"{i+=1},{add_items}, ${price_items}") #Python starts counting at zero. Number of item, item, price.
               
 #Remove items
     elif action =="3":
