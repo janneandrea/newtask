@@ -29,7 +29,7 @@ while action !="5":
 
 # Display items
     elif action =="2":
-        for item in cart (len(item)):
+        for add_items in cart (len(add_items)):
             print(f"{i+1},{add_items}, ${price_items}") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
@@ -50,5 +50,5 @@ while action !="5":
 
 #clear entire cart
     elif action =="6":
-	    cart.clear( add_items,price_items)
-	    print("Your cart has been emptied")
+        cart.clear( add_items,price_items)
+        print("Your cart has been emptied")
