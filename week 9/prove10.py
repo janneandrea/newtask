@@ -4,8 +4,7 @@ print("\nWelcome to the Shopping cart Program!")
 #Set lists
 cart =[]
 prices = []
-action= ""
-price= ""
+action= "" 
 item=""
 i=0
 
@@ -29,7 +28,7 @@ while action !="5":
 
 # Display items
     elif action =="2":
-        for add_items in cart (len(add_items)):
+        for add_items in cart:
             print(f"{i+1},{add_items}, ${price_items}") #Python starts counting at zero. Number of item, item, price.
 
 #Remove items
@@ -50,5 +49,5 @@ while action !="5":
 
 #clear entire cart
     elif action =="6":
-        cart.clear( add_items,price_items)
+        cart.clear()
         print("Your cart has been emptied")
