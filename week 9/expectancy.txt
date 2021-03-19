@@ -1,4 +1,4 @@
-Entity	   Code	Year	Life expectancy (years)
+Entity	Code	Year	Life expectancy
 Afghanistan	AFG	1950	27.638
 Afghanistan	AFG	1951	27.878
 Afghanistan	AFG	1952	28.361
@@ -4285,81 +4285,81 @@ Cyprus	CYP	2016	80.513
 Cyprus	CYP	2017	80.672
 Cyprus	CYP	2018	80.828
 Cyprus	CYP	2019	80.982
-Czech Republic	CZE	1875	34.954399
-Czech Republic	CZE	1900	40.266159
-Czech Republic	CZE	1910	44.312801
-Czech Republic	CZE	1930	55.554401
-Czech Republic	CZE	1937	58.452
-Czech Republic	CZE	1950	65.307
-Czech Republic	CZE	1951	65.737
-Czech Republic	CZE	1952	66.557
-Czech Republic	CZE	1953	67.296
-Czech Republic	CZE	1954	67.954
-Czech Republic	CZE	1955	68.531
-Czech Republic	CZE	1956	69.027
-Czech Republic	CZE	1957	69.441
-Czech Republic	CZE	1958	69.776
-Czech Republic	CZE	1959	70.032
-Czech Republic	CZE	1960	70.211
-Czech Republic	CZE	1961	70.318
-Czech Republic	CZE	1962	70.359
-Czech Republic	CZE	1963	70.347
-Czech Republic	CZE	1964	70.297
-Czech Republic	CZE	1965	70.224
-Czech Republic	CZE	1966	70.142
-Czech Republic	CZE	1967	70.062
-Czech Republic	CZE	1968	69.996
-Czech Republic	CZE	1969	69.952
-Czech Republic	CZE	1970	69.942
-Czech Republic	CZE	1971	69.971
-Czech Republic	CZE	1972	70.031
-Czech Republic	CZE	1973	70.116
-Czech Republic	CZE	1974	70.219
-Czech Republic	CZE	1975	70.33
-Czech Republic	CZE	1976	70.436
-Czech Republic	CZE	1977	70.528
-Czech Republic	CZE	1978	70.601
-Czech Republic	CZE	1979	70.655
-Czech Republic	CZE	1980	70.696
-Czech Republic	CZE	1981	70.733
-Czech Republic	CZE	1982	70.778
-Czech Republic	CZE	1983	70.842
-Czech Republic	CZE	1984	70.93
-Czech Republic	CZE	1985	71.044
-Czech Republic	CZE	1986	71.18
-Czech Republic	CZE	1987	71.334
-Czech Republic	CZE	1988	71.503
-Czech Republic	CZE	1989	71.686
-Czech Republic	CZE	1990	71.89
-Czech Republic	CZE	1991	72.122
-Czech Republic	CZE	1992	72.386
-Czech Republic	CZE	1993	72.681
-Czech Republic	CZE	1994	73.001
-Czech Republic	CZE	1995	73.336
-Czech Republic	CZE	1996	73.676
-Czech Republic	CZE	1997	74.007
-Czech Republic	CZE	1998	74.323
-Czech Republic	CZE	1999	74.619
-Czech Republic	CZE	2000	74.899
-Czech Republic	CZE	2001	75.167
-Czech Republic	CZE	2002	75.434
-Czech Republic	CZE	2003	75.707
-Czech Republic	CZE	2004	75.987
-Czech Republic	CZE	2005	76.272
-Czech Republic	CZE	2006	76.557
-Czech Republic	CZE	2007	76.837
-Czech Republic	CZE	2008	77.107
-Czech Republic	CZE	2009	77.365
-Czech Republic	CZE	2010	77.61
-Czech Republic	CZE	2011	77.843
-Czech Republic	CZE	2012	78.067
-Czech Republic	CZE	2013	78.283
-Czech Republic	CZE	2014	78.492
-Czech Republic	CZE	2015	78.692
-Czech Republic	CZE	2016	78.881
-Czech Republic	CZE	2017	79.058
-Czech Republic	CZE	2018	79.222
-Czech Republic	CZE	2019	79.376
+Czechia	CZE	1875	34.954399
+Czechia	CZE	1900	40.266159
+Czechia	CZE	1910	44.312801
+Czechia	CZE	1930	55.554401
+Czechia	CZE	1937	58.452
+Czechia	CZE	1950	65.307
+Czechia	CZE	1951	65.737
+Czechia	CZE	1952	66.557
+Czechia	CZE	1953	67.296
+Czechia	CZE	1954	67.954
+Czechia	CZE	1955	68.531
+Czechia	CZE	1956	69.027
+Czechia	CZE	1957	69.441
+Czechia	CZE	1958	69.776
+Czechia	CZE	1959	70.032
+Czechia	CZE	1960	70.211
+Czechia	CZE	1961	70.318
+Czechia	CZE	1962	70.359
+Czechia	CZE	1963	70.347
+Czechia	CZE	1964	70.297
+Czechia	CZE	1965	70.224
+Czechia	CZE	1966	70.142
+Czechia	CZE	1967	70.062
+Czechia	CZE	1968	69.996
+Czechia	CZE	1969	69.952
+Czechia	CZE	1970	69.942
+Czechia	CZE	1971	69.971
+Czechia	CZE	1972	70.031
+Czechia	CZE	1973	70.116
+Czechia	CZE	1974	70.219
+Czechia	CZE	1975	70.33
+Czechia	CZE	1976	70.436
+Czechia	CZE	1977	70.528
+Czechia	CZE	1978	70.601
+Czechia	CZE	1979	70.655
+Czechia	CZE	1980	70.696
+Czechia	CZE	1981	70.733
+Czechia	CZE	1982	70.778
+Czechia	CZE	1983	70.842
+Czechia	CZE	1984	70.93
+Czechia	CZE	1985	71.044
+Czechia	CZE	1986	71.18
+Czechia	CZE	1987	71.334
+Czechia	CZE	1988	71.503
+Czechia	CZE	1989	71.686
+Czechia	CZE	1990	71.89
+Czechia	CZE	1991	72.122
+Czechia	CZE	1992	72.386
+Czechia	CZE	1993	72.681
+Czechia	CZE	1994	73.001
+Czechia	CZE	1995	73.336
+Czechia	CZE	1996	73.676
+Czechia	CZE	1997	74.007
+Czechia	CZE	1998	74.323
+Czechia	CZE	1999	74.619
+Czechia	CZE	2000	74.899
+Czechia	CZE	2001	75.167
+Czechia	CZE	2002	75.434
+Czechia	CZE	2003	75.707
+Czechia	CZE	2004	75.987
+Czechia	CZE	2005	76.272
+Czechia	CZE	2006	76.557
+Czechia	CZE	2007	76.837
+Czechia	CZE	2008	77.107
+Czechia	CZE	2009	77.365
+Czechia	CZE	2010	77.61
+Czechia	CZE	2011	77.843
+Czechia	CZE	2012	78.067
+Czechia	CZE	2013	78.283
+Czechia	CZE	2014	78.492
+Czechia	CZE	2015	78.692
+Czechia	CZE	2016	78.881
+Czechia	CZE	2017	79.058
+Czechia	CZE	2018	79.222
+Czechia	CZE	2019	79.376
 Democratic Republic of Congo	COD	1950	38.342
 Democratic Republic of Congo	COD	1951	38.531
 Democratic Republic of Congo	COD	1952	38.899
@@ -5279,6 +5279,76 @@ Estonia	EST	2016	78.097
 Estonia	EST	2017	78.354
 Estonia	EST	2018	78.567
 Estonia	EST	2019	78.745
+Eswatini	SWZ	1950	39.403
+Eswatini	SWZ	1951	39.648
+Eswatini	SWZ	1952	40.131
+Eswatini	SWZ	1953	40.603
+Eswatini	SWZ	1954	41.063
+Eswatini	SWZ	1955	41.511
+Eswatini	SWZ	1956	41.946
+Eswatini	SWZ	1957	42.37
+Eswatini	SWZ	1958	42.783
+Eswatini	SWZ	1959	43.183
+Eswatini	SWZ	1960	43.572
+Eswatini	SWZ	1961	43.951
+Eswatini	SWZ	1962	44.325
+Eswatini	SWZ	1963	44.699
+Eswatini	SWZ	1964	45.083
+Eswatini	SWZ	1965	45.489
+Eswatini	SWZ	1966	45.929
+Eswatini	SWZ	1967	46.409
+Eswatini	SWZ	1968	46.935
+Eswatini	SWZ	1969	47.508
+Eswatini	SWZ	1970	48.128
+Eswatini	SWZ	1971	48.788
+Eswatini	SWZ	1972	49.479
+Eswatini	SWZ	1973	50.191
+Eswatini	SWZ	1974	50.919
+Eswatini	SWZ	1975	51.661
+Eswatini	SWZ	1976	52.421
+Eswatini	SWZ	1977	53.198
+Eswatini	SWZ	1978	53.991
+Eswatini	SWZ	1979	54.795
+Eswatini	SWZ	1980	55.613
+Eswatini	SWZ	1981	56.453
+Eswatini	SWZ	1982	57.307
+Eswatini	SWZ	1983	58.158
+Eswatini	SWZ	1984	58.978
+Eswatini	SWZ	1985	59.749
+Eswatini	SWZ	1986	60.46
+Eswatini	SWZ	1987	61.081
+Eswatini	SWZ	1988	61.572
+Eswatini	SWZ	1989	61.885
+Eswatini	SWZ	1990	61.95
+Eswatini	SWZ	1991	61.7
+Eswatini	SWZ	1992	61.112
+Eswatini	SWZ	1993	60.192
+Eswatini	SWZ	1994	58.958
+Eswatini	SWZ	1995	57.422
+Eswatini	SWZ	1996	55.606
+Eswatini	SWZ	1997	53.595
+Eswatini	SWZ	1998	51.498
+Eswatini	SWZ	1999	49.424
+Eswatini	SWZ	2000	47.49
+Eswatini	SWZ	2001	45.799
+Eswatini	SWZ	2002	44.41
+Eswatini	SWZ	2003	43.372
+Eswatini	SWZ	2004	42.731
+Eswatini	SWZ	2005	42.518
+Eswatini	SWZ	2006	42.733
+Eswatini	SWZ	2007	43.308
+Eswatini	SWZ	2008	44.17
+Eswatini	SWZ	2009	45.275
+Eswatini	SWZ	2010	46.601
+Eswatini	SWZ	2011	48.141
+Eswatini	SWZ	2012	49.862
+Eswatini	SWZ	2013	51.699
+Eswatini	SWZ	2014	53.569
+Eswatini	SWZ	2015	55.359
+Eswatini	SWZ	2016	56.962
+Eswatini	SWZ	2017	58.319
+Eswatini	SWZ	2018	59.401
+Eswatini	SWZ	2019	60.194
 Ethiopia	ETH	1950	33.3
 Ethiopia	ETH	1951	33.468
 Ethiopia	ETH	1952	33.833
@@ -9833,76 +9903,6 @@ Macao	MAC	2016	83.854
 Macao	MAC	2017	83.989
 Macao	MAC	2018	84.118
 Macao	MAC	2019	84.244
-Macedonia	MKD	1950	53.042
-Macedonia	MKD	1951	53.527
-Macedonia	MKD	1952	54.477
-Macedonia	MKD	1953	55.386
-Macedonia	MKD	1954	56.252
-Macedonia	MKD	1955	57.076
-Macedonia	MKD	1956	57.859
-Macedonia	MKD	1957	58.603
-Macedonia	MKD	1958	59.31
-Macedonia	MKD	1959	59.985
-Macedonia	MKD	1960	60.633
-Macedonia	MKD	1961	61.259
-Macedonia	MKD	1962	61.87
-Macedonia	MKD	1963	62.469
-Macedonia	MKD	1964	63.06
-Macedonia	MKD	1965	63.642
-Macedonia	MKD	1966	64.216
-Macedonia	MKD	1967	64.775
-Macedonia	MKD	1968	65.313
-Macedonia	MKD	1969	65.824
-Macedonia	MKD	1970	66.301
-Macedonia	MKD	1971	66.736
-Macedonia	MKD	1972	67.128
-Macedonia	MKD	1973	67.474
-Macedonia	MKD	1974	67.773
-Macedonia	MKD	1975	68.02
-Macedonia	MKD	1976	68.212
-Macedonia	MKD	1977	68.355
-Macedonia	MKD	1978	68.462
-Macedonia	MKD	1979	68.549
-Macedonia	MKD	1980	68.64
-Macedonia	MKD	1981	68.764
-Macedonia	MKD	1982	68.936
-Macedonia	MKD	1983	69.162
-Macedonia	MKD	1984	69.442
-Macedonia	MKD	1985	69.76
-Macedonia	MKD	1986	70.094
-Macedonia	MKD	1987	70.414
-Macedonia	MKD	1988	70.7
-Macedonia	MKD	1989	70.945
-Macedonia	MKD	1990	71.152
-Macedonia	MKD	1991	71.331
-Macedonia	MKD	1992	71.502
-Macedonia	MKD	1993	71.68
-Macedonia	MKD	1994	71.871
-Macedonia	MKD	1995	72.08
-Macedonia	MKD	1996	72.309
-Macedonia	MKD	1997	72.55
-Macedonia	MKD	1998	72.795
-Macedonia	MKD	1999	73.038
-Macedonia	MKD	2000	73.267
-Macedonia	MKD	2001	73.47
-Macedonia	MKD	2002	73.642
-Macedonia	MKD	2003	73.781
-Macedonia	MKD	2004	73.892
-Macedonia	MKD	2005	73.986
-Macedonia	MKD	2006	74.08
-Macedonia	MKD	2007	74.19
-Macedonia	MKD	2008	74.324
-Macedonia	MKD	2009	74.484
-Macedonia	MKD	2010	74.662
-Macedonia	MKD	2011	74.846
-Macedonia	MKD	2012	75.019
-Macedonia	MKD	2013	75.171
-Macedonia	MKD	2014	75.299
-Macedonia	MKD	2015	75.406
-Macedonia	MKD	2016	75.498
-Macedonia	MKD	2017	75.589
-Macedonia	MKD	2018	75.688
-Macedonia	MKD	2019	75.797
 Madagascar	MDG	1950	35.349
 Madagascar	MDG	1951	35.591
 Madagascar	MDG	1952	36.076
@@ -12311,6 +12311,76 @@ North Korea	PRK	2016	71.711
 North Korea	PRK	2017	71.91
 North Korea	PRK	2018	72.095
 North Korea	PRK	2019	72.274
+North Macedonia	MKD	1950	53.042
+North Macedonia	MKD	1951	53.527
+North Macedonia	MKD	1952	54.477
+North Macedonia	MKD	1953	55.386
+North Macedonia	MKD	1954	56.252
+North Macedonia	MKD	1955	57.076
+North Macedonia	MKD	1956	57.859
+North Macedonia	MKD	1957	58.603
+North Macedonia	MKD	1958	59.31
+North Macedonia	MKD	1959	59.985
+North Macedonia	MKD	1960	60.633
+North Macedonia	MKD	1961	61.259
+North Macedonia	MKD	1962	61.87
+North Macedonia	MKD	1963	62.469
+North Macedonia	MKD	1964	63.06
+North Macedonia	MKD	1965	63.642
+North Macedonia	MKD	1966	64.216
+North Macedonia	MKD	1967	64.775
+North Macedonia	MKD	1968	65.313
+North Macedonia	MKD	1969	65.824
+North Macedonia	MKD	1970	66.301
+North Macedonia	MKD	1971	66.736
+North Macedonia	MKD	1972	67.128
+North Macedonia	MKD	1973	67.474
+North Macedonia	MKD	1974	67.773
+North Macedonia	MKD	1975	68.02
+North Macedonia	MKD	1976	68.212
+North Macedonia	MKD	1977	68.355
+North Macedonia	MKD	1978	68.462
+North Macedonia	MKD	1979	68.549
+North Macedonia	MKD	1980	68.64
+North Macedonia	MKD	1981	68.764
+North Macedonia	MKD	1982	68.936
+North Macedonia	MKD	1983	69.162
+North Macedonia	MKD	1984	69.442
+North Macedonia	MKD	1985	69.76
+North Macedonia	MKD	1986	70.094
+North Macedonia	MKD	1987	70.414
+North Macedonia	MKD	1988	70.7
+North Macedonia	MKD	1989	70.945
+North Macedonia	MKD	1990	71.152
+North Macedonia	MKD	1991	71.331
+North Macedonia	MKD	1992	71.502
+North Macedonia	MKD	1993	71.68
+North Macedonia	MKD	1994	71.871
+North Macedonia	MKD	1995	72.08
+North Macedonia	MKD	1996	72.309
+North Macedonia	MKD	1997	72.55
+North Macedonia	MKD	1998	72.795
+North Macedonia	MKD	1999	73.038
+North Macedonia	MKD	2000	73.267
+North Macedonia	MKD	2001	73.47
+North Macedonia	MKD	2002	73.642
+North Macedonia	MKD	2003	73.781
+North Macedonia	MKD	2004	73.892
+North Macedonia	MKD	2005	73.986
+North Macedonia	MKD	2006	74.08
+North Macedonia	MKD	2007	74.19
+North Macedonia	MKD	2008	74.324
+North Macedonia	MKD	2009	74.484
+North Macedonia	MKD	2010	74.662
+North Macedonia	MKD	2011	74.846
+North Macedonia	MKD	2012	75.019
+North Macedonia	MKD	2013	75.171
+North Macedonia	MKD	2014	75.299
+North Macedonia	MKD	2015	75.406
+North Macedonia	MKD	2016	75.498
+North Macedonia	MKD	2017	75.589
+North Macedonia	MKD	2018	75.688
+North Macedonia	MKD	2019	75.797
 Northern America		1950	68.205
 Northern America		1951	68.342
 Northern America		1952	68.606
@@ -15969,76 +16039,6 @@ Suriname	SUR	2016	71.358
 Suriname	SUR	2017	71.463
 Suriname	SUR	2018	71.57
 Suriname	SUR	2019	71.682
-Swaziland	SWZ	1950	39.403
-Swaziland	SWZ	1951	39.648
-Swaziland	SWZ	1952	40.131
-Swaziland	SWZ	1953	40.603
-Swaziland	SWZ	1954	41.063
-Swaziland	SWZ	1955	41.511
-Swaziland	SWZ	1956	41.946
-Swaziland	SWZ	1957	42.37
-Swaziland	SWZ	1958	42.783
-Swaziland	SWZ	1959	43.183
-Swaziland	SWZ	1960	43.572
-Swaziland	SWZ	1961	43.951
-Swaziland	SWZ	1962	44.325
-Swaziland	SWZ	1963	44.699
-Swaziland	SWZ	1964	45.083
-Swaziland	SWZ	1965	45.489
-Swaziland	SWZ	1966	45.929
-Swaziland	SWZ	1967	46.409
-Swaziland	SWZ	1968	46.935
-Swaziland	SWZ	1969	47.508
-Swaziland	SWZ	1970	48.128
-Swaziland	SWZ	1971	48.788
-Swaziland	SWZ	1972	49.479
-Swaziland	SWZ	1973	50.191
-Swaziland	SWZ	1974	50.919
-Swaziland	SWZ	1975	51.661
-Swaziland	SWZ	1976	52.421
-Swaziland	SWZ	1977	53.198
-Swaziland	SWZ	1978	53.991
-Swaziland	SWZ	1979	54.795
-Swaziland	SWZ	1980	55.613
-Swaziland	SWZ	1981	56.453
-Swaziland	SWZ	1982	57.307
-Swaziland	SWZ	1983	58.158
-Swaziland	SWZ	1984	58.978
-Swaziland	SWZ	1985	59.749
-Swaziland	SWZ	1986	60.46
-Swaziland	SWZ	1987	61.081
-Swaziland	SWZ	1988	61.572
-Swaziland	SWZ	1989	61.885
-Swaziland	SWZ	1990	61.95
-Swaziland	SWZ	1991	61.7
-Swaziland	SWZ	1992	61.112
-Swaziland	SWZ	1993	60.192
-Swaziland	SWZ	1994	58.958
-Swaziland	SWZ	1995	57.422
-Swaziland	SWZ	1996	55.606
-Swaziland	SWZ	1997	53.595
-Swaziland	SWZ	1998	51.498
-Swaziland	SWZ	1999	49.424
-Swaziland	SWZ	2000	47.49
-Swaziland	SWZ	2001	45.799
-Swaziland	SWZ	2002	44.41
-Swaziland	SWZ	2003	43.372
-Swaziland	SWZ	2004	42.731
-Swaziland	SWZ	2005	42.518
-Swaziland	SWZ	2006	42.733
-Swaziland	SWZ	2007	43.308
-Swaziland	SWZ	2008	44.17
-Swaziland	SWZ	2009	45.275
-Swaziland	SWZ	2010	46.601
-Swaziland	SWZ	2011	48.141
-Swaziland	SWZ	2012	49.862
-Swaziland	SWZ	2013	51.699
-Swaziland	SWZ	2014	53.569
-Swaziland	SWZ	2015	55.359
-Swaziland	SWZ	2016	56.962
-Swaziland	SWZ	2017	58.319
-Swaziland	SWZ	2018	59.401
-Swaziland	SWZ	2019	60.194
 Sweden	SWE	1751	38.369999
 Sweden	SWE	1752	35.34
 Sweden	SWE	1753	39.689999
