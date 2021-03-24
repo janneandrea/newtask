@@ -1,4 +1,4 @@
-with open ("expectancy.txt") as life_expectancy: #opens and closes the text file
+with open ("life_expectancy.csv") as life_expectancy: #opens and closes the text file
      for line in life_expectancy:
         parts = line.split(",") # divides it into parts
         
