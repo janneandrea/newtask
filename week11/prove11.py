@@ -1,5 +1,5 @@
 with open ("life_expectancy.csv") as life_expectancy: #opens and closes the text file
-     for line in life_expectancy:
+    for line in life_expectancy:
         parts = line.split(",") # divides it into parts
         
         entity = parts[0] #entity
@@ -11,10 +11,17 @@ with open ("life_expectancy.csv") as life_expectancy: #opens and closes the text
         
 user_choice = input("Enter the year of interest: ")
 
-print(f"The overall max life expectancy is: max{life_expec} from {entity} in {year}")
-print(f"The overall min life expectancy is: min{life_expec} from {entity} in {year}")
+max_expect= -1
 
-print(f"For the year {user_choice}")
-print(f"The average life expectancy across all countries was {}")
-print(f"The max life expectancy was in {entity}with {life_expec}")
-print(f"The min life expectancy was in {entity} with {life_expec}")
+        if life_expec > max_expect:
+            max_expect = life_expec
+
+    print(f"The overall max life expectancy is: {max_expect} from {entity} in {year}")
+    
+    
+    print(f"The overall min life expectancy is: min{life_expec} from {entity} in {year}")
+
+    print(f"For the year {user_choice}")
+    print(f"The average life expectancy across all countries was {}")
+    print(f"The max life expectancy was in {entity}with {life_expec}")
+    print(f"The min life expectancy was in {entity} with {life_expec}")
