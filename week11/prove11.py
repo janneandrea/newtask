@@ -5,20 +5,31 @@ with open ("life_expectancy.csv") as life_expectancy: #opens and closes the text
         entity = parts[0] #entity
         code = parts[1] #code
         year = parts[2] #year
-        life_expec = float(parts[3]) #year
+        life_expec = parts[3] #year
         
         print(f"{entity},{code},{year},{life_expec.strip()}") 
         
 user_choice = input("Enter the year of interest: ")
 
-max_expect = life_expec[3]
+max_expect= -1
 
-for life_expec in life_expec:
-    if life_expec > max_expect:
-        # This number is larger than the largest we had seen so far
+if life_expec > max_expect:
+    max_expect = life_expec
 
-        # So it is now the largest we've seen
-        max_expect = life_expec
+    print(f"The overall max life expectancy is: {max_expect} from {entity} in {year}")
+    
+min_expect=100000
 
-# Now, after the loop we can display it:
-print(f"The largest is: {max_expect}")
+if life_expec < min_expect
+    min_expect = life_expec
+
+    print(f"The overall min life expectancy is: {min_expect} from {entity} in {year}")
+
+print(f"For the year {user_choice}")
+    
+    avg= mean(life_expec)
+    print("The average life expectancy across all countries was", round(avg,2))
+
+    print(f"The max life expectancy was in {entity}with {life_expec}")
+    print(f"The min life expectancy was in {entity} with {life_expec}")
+
